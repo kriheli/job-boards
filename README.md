@@ -2,6 +2,10 @@
 A repository of job boards in tech/qa
 
 <p>
+<strong>Y Combinator Jobs</strong><br>
+https://www.ycombinator.com/jobs
+</p>
+<p>
 <strong>We Work Remotely</strong><br>
 https://weworkremotely.com
 </p>
@@ -16,6 +20,10 @@ https://startup.jobs/?q=qa
 <p>
 <strong>Working Nomads</strong><br>
 https://www.workingnomads.com/jobs
+</p>
+<p>
+<strong>Otta</strong><br>
+https://app.otta.com/jobs/
 </p>
 <p>
 <strong>Remote.co</strong><br>
