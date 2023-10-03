@@ -26,6 +26,10 @@ https://www.workingnomads.com/jobs
 https://app.otta.com/jobs/
 </p>
 <p>
+<strong>Dice</strong><br>
+https://dice.com
+</p>
+<p>
 <strong>Remote.co</strong><br>
 https://remote.co/remote-jobs/
 </p>
