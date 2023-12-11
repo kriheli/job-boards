@@ -10,6 +10,10 @@ https://www.ycombinator.com/jobs
 https://weworkremotely.com
 </p>
 <p>
+<strong>OkJob (4 day week jobs)</strong><br>
+https://okjob.io
+</p>
+<p>
 <strong>Remotive</strong><br>
 https://remotive.com
 </p>
