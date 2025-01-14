@@ -58,10 +58,6 @@ https://whoishiring.io
 https://thehiredguns.com/gig/
 </p>
 <p>
-<strong>Silicon Florist (Portland)</strong><br>
-https://jobs.siliconflorist.com
-</p>
-<p>
 <strong>Remote OK</strong><br>
 https://remoteok.com
 </p>
@@ -69,4 +65,3 @@ https://remoteok.com
 <strong>Wellfound</strong><br>
 https://wellfound.com/jobs
 </p> 
-test
